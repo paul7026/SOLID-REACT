@@ -125,6 +125,8 @@ export default function TodosPage() {
 :white_check_mark:  Проще тестировать\
 :white_check_mark:  Проще поддерживать\
 :white_check_mark:  Проще дорабатывать
+\
+&nbsp;
 
 ## Open-Closed Principle
 ### Програмные сущности должны быть открыты для расширения, но закрыты для модификации
