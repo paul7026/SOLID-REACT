@@ -125,3 +125,8 @@ export default function TodosPage() {
 :white_check_mark:  Проще тестировать\
 :white_check_mark:  Проще поддерживать\
 :white_check_mark:  Проще дорабатывать
+
+## Open-Closed Principle
+### Програмные сущности должны быть открыты для расширения, но закрыты для модификации
+![image](https://github.com/paul7026/SOLID-REACT/assets/59816390/74dd0f24-0cbd-417a-b79d-75ef81037c76)
+
